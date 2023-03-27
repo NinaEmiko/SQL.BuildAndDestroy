@@ -1,3 +1,2 @@
-ALTER TABLE Users(
+ALTER TABLE Users
 ADD Birthday DATE;
-);
