@@ -1,2 +1,2 @@
 ALTER TABLE Users
-ADD Birthday DATE;
+ADD COLUMN Birthday DATE;
